@@ -1,6 +1,9 @@
-<html>
-<head>
- <meta charset="utf-8">
- <style>
-  •phandau {color: tomato; background-color: #f1f1f1}
-
+html {
+ height: 100%;
+ width: 100%;
+}
+• bandau {color : green; background-color: magenta; text-align : center; padding: 20px
+• giua {color : red; background-color: yellow; padding: 20px ; }
+• giua a{color : black; display: block;}
+• giua a : hover{color : blue; background-color: gray;}
+• cuoi {color : blue;}
